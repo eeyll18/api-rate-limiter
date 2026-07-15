@@ -5,3 +5,7 @@ dist/
 !.env.example
 
 *.log
+/src/generated/prisma
+
+*.db
+*.db-journal
